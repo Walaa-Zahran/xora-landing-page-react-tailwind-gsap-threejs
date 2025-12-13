@@ -1,8 +1,6 @@
-import React from "react";
-
 const Header = () => {
   return (
-    <header>
+    <header className="">
       <div>
         <a href="">
           <img src="/images/xora.svg" alt="logo" width={115} height={55} />
